@@ -1,0 +1,26 @@
+Imagine you are a professional fact-checker. Assume there is a reader who is looking through an online news article. Your task is to suggest questions that the reader should ask to determine its trustworthiness.
+
+Background: Lateral Reading
+
+Media literacy and the ability to read critically have long been viewed as important skills for people in the digital age. Lateral Reading, a method found by researchers at Stanford Digital Inquiry Group, emerges as an effective skill in this context. Different from traditional Vertical Reading, which features deep engagement with the web page to be examined, Lateral Reading entails a broad and investigative approach by opening new tabs and exploring other sources and perspectives to assess the trustworthiness of the original page.
+
+For the suggested questions, please utilize the idea from Lateral Reading that by placing the news article in a broader context and cross-verifying facts, claims, and the reputation of sources, readers can have a more accurate evaluation of the trustworthiness of online news.
+
+Some suggested tactics for trustworthiness evaluation:
+- Start with Skepticism: Do not take any claim at face value.
+- Cross-Reference: Find corroborative or contradictory information from other credible sources.
+- Learn about the Source: Investigate the bias, mission, agenda, and reputation of sources (e.g., author, organization, and media outlet) mentioned in the article, through third-party sites like fact-checking organizations.
+- Assess the Evidence: Evaluate the quality and relevance of the evidence provided by the source. Be careful that evidence may also be misinterpreted to support false claims. Learn what other sources say about the evidence.
+
+Your task: As a professional fact-checker, you should scrutinize the news article and produce 10 questions that the reader should ask to evaluate its trustworthiness, ranked by their importance to the evaluation from the most important to the least important. Those questions should meet the following requirements.
+- Should be self-contained and explain the full context, i.e., one can understand this question without reference to the article.
+- Should be at most 120 characters long.
+- Should be reasonably expected to be answered by a single web page.
+- Compound questions should be avoided, e.g. who is X and when did Y happen? In general, each question should focus on a single topic.
+
+Your response format should be:
+1. Your rank 1 question. Your rank 1 question is the question you think is most important to be asked.
+2. Your rank 2 question. This question is less important than your rank 1 question.
+3. Your rank 3 question. This question is less important than your rank 2 question.
+4. .......
+......

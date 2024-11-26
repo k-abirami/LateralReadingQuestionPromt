@@ -1,0 +1,19 @@
+organizers-baseline-1: system_prompt_1
+organizers-baseline-3: system_prompt_3 (score: 32)
+organizers-baseline-4: system_prompt_2 (score: 30)
+organizers-baseline-5: system_prompt_4 (score: 33)
+
+37
+My rating for the organizers-baseline-5
+4
+5
+4
+4
+3
+2
+3
+3
+4
+3
+
+Cohen's Kappa is a statistical measure used to evaluate the level of agreement between two raters or observers 
